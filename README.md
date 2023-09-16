@@ -1,1 +1,1 @@
-My Projects
+My Projects (Made with HTML, CSS and JAVASCRIPT)
