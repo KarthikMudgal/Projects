@@ -1,0 +1,51 @@
+body {
+  background-color: #e9b824;
+}
+
+.heading {
+  text-align: center;
+}
+.heading-primary {
+  font-family: "Young-Serif", sans-serif;
+  color: #b6fffa;
+  font-size: 50px;
+  margin: 50px auto;
+}
+
+.meme-btn {
+  text-align: center;
+}
+
+.btn {
+  font-family: "Young-Serif", sans-serif;
+  margin: 50px auto;
+  background-color: #d83f31;
+  color: #b6fffa;
+  border: none;
+  font-size: 20px;
+  padding: 15px 15px 15px 15px;
+  width: 200px;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #ad3227;
+  cursor: pointer;
+  transition: 0.3s all;
+}
+
+.container {
+  background-color: #232d3f;
+  padding: 200px 100px 200px 100px;
+  text-align: center;
+}
+
+.meme-img {
+  margin-bottom: 100px;
+  width: 100%;
+}
+
+footer {
+  font-family: "Young Serif", serif;
+  color: #b6fffa;
+}
